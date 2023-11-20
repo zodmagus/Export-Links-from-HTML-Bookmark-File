@@ -13,7 +13,7 @@ The script reads an HTML bookmark file and uses a regular expression to extract 
 2. Navigate to the project directory:
    cd exportlinks
 3. Run script
-   python3 exportlinks.py path/to/your/bookmarks.html
+   python3 ./exportlinks.py path/to/your/bookmarks.html
 
 Requirements
 Python 3.x
