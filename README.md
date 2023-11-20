@@ -4,7 +4,7 @@ This script extracts links from an HTML bookmark file and saves them to a text f
 
 ## How It Works
 
-The script reads an HTML bookmark file and uses a regular expression to extract links from anchor tags (`<a>`). It then writes the extracted links to a text file.
+The script reads an HTML bookmark file and uses a regular expression to extract links from anchor tags (`<a>`). It then writes the extracted links to a text file called links.txt
 
 ## Installation
 
